@@ -21,11 +21,11 @@ programas o que me levou até aqui e a escrever esse texto.
 <br>
 <div>
     <style>
-        img {
+        (img {
             position: relative;
             top: 5px;
             right: 3px;
-        }
+        })
     </style>
 </div>
 <img src="https://i.pinimg.com/originals/32/0d/15/320d155b7f84da554c706d893e14f5dc.png" height="20px" width="23px">Dev Iniciante
