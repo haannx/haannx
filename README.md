@@ -8,18 +8,9 @@
 ### Sobre Mim:
 
 <br>
-➢ Computadores sempre fizeram parte da minha vida, por isso, possuo
-<br>
-muita facilidade para aprender e desenvolver tarefas nessas máquinas,
-<br>
-com o passar do tempo comecei a gostar de programar e desenvolver
-<br>
-programas o que me levou até aqui e a escrever esse texto.
-<br>
-<br>
 19 Anos
 <br>
-Dev Iniciante
+Dev Junior
 <br>
 Inglês Intermediário
 <br>
