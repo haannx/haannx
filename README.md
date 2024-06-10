@@ -14,6 +14,8 @@ Dev Junior
 <br>
 Inglês Avançado
 <br>
+Complemento minha formação com cursos na Alura
+<br>
 Cursando Análise e Desenvolvimento de Sistemas em:
 <br><a href="https://www.uninter.com/"><img src="https://www.saedf.org.br/wp-content/uploads/2023/05/Logo-Uninter-01.jpg" class="media-object  img-responsive img-thumbnail" height="40px" width="70px"></a>
 <br>
