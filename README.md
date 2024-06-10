@@ -49,7 +49,7 @@ Cursando Análise e Desenvolvimento de Sistemas em:
 <br>
 ![16gb](https://img.shields.io/badge/16Gb_RAM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
-![WIN](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WIN](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Músicas:
 
