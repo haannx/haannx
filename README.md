@@ -39,10 +39,3 @@ Cursando Análise e Desenvolvimento de Sistemas
 <br>
 ![WIN](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Músicas:
-
-<div align="center">
-  <a href="<a href="<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21a4v3sbx4zd4eueq5yq7vq3a">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21a4v3sbx4zd4eueq5yq7vq3a" alt="Data Card for Spotify">
-</a>
-</div>
