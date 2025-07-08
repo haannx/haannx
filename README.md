@@ -35,7 +35,7 @@ Cursando Análise e Desenvolvimento de Sistemas
 <br>
 ![RTX3070TI](https://img.shields.io/badge/NVIDIA-RTX_3070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br>
-![32gb](https://img.shields.io/badge/16Gb_RAM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![16gb](https://img.shields.io/badge/32Gb_RAM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
 ![WIN](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
