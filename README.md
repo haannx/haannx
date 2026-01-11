@@ -19,19 +19,13 @@ Cursando Análise e Desenvolvimento de Sistemas
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <div>
 
-### Status:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haannx&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haannx&layout=compact)
-
 ### Plataformas:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Meu PC:
 
-![Corei5](https://img.shields.io/badge/Intel-Core_i5_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
+![Corei5](https://img.shields.io/badge/Intel-Core_i5_14600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 <br>
 ![RTX3070TI](https://img.shields.io/badge/NVIDIA-RTX_3070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br>
