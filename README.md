@@ -27,7 +27,7 @@ Cursando Análise e Desenvolvimento de Sistemas
 
 ![Corei5](https://img.shields.io/badge/Intel-Core_i5_14600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 <br>
-![RTX3070TI](https://img.shields.io/badge/NVIDIA-RTX_3070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RTX3070TI](https://img.shields.io/badge/NVIDIA-RTX_5070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br>
 ![16gb](https://img.shields.io/badge/2x16Gb_RAM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
