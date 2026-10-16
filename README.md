@@ -5,12 +5,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciosbohnn/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-elias-bohn-5b051b263)
 
-### Sobre Mim:
+### 💻 Sobre Mim
 
-Cursando Análise e Desenvolvimento de Sistemas
+- 💼 Trabalho na **ABASE Sistemas**, atuando no desenvolvimento do **[EducarWeb](https://www.educarweb.com.br/)**.
+- 🛠️ Experiência com desenvolvimento **Front-end e Back-end**, consultas SQL e geração de relatórios com **JasperReports**.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- 🌎 Inglês Intermediário/Avançado.
+- 🎮 Atualmente desenvolvendo jogos no meu tempo livre.
 
-
-#### Linguagens:
+### 📚 Linguagens:
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,16 +23,16 @@ Cursando Análise e Desenvolvimento de Sistemas
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <div>
 
-### Banco de Dados:
+### 🗄️ Banco de Dados:
 <div style="display: inline_block">
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <div>
 
-### Plataformas:
+### 💻 Plataformas:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Meu PC:
+### 🖥️ Meu PC:
 
 ![Corei5](https://img.shields.io/badge/Intel-Core_i5_14600KF-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 <br>
